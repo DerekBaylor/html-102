@@ -1,7 +1,7 @@
 body {
     background-color: rgb(47, 107, 97);
 }
-.card-img-top{
+.hamburger-cards{
     display: flex;
     flex-wrap: wrap;
 }
